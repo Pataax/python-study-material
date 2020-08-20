@@ -1,0 +1,8 @@
+This is a sample text file.
+
+My name is John Elder and i run Codemy.com
+
+Best wishes.
+
+- John Elder
+Lear To Code at Codemy.com
